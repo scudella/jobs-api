@@ -1,2 +1,2 @@
 ## Deployed at
-https://jobs-api-scudella.herokuapp.com/api-docs/
+https://jobs-api.scudella.net.br/api-docs/
